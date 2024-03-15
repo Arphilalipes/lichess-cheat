@@ -1,0 +1,8 @@
+opencv-python
+pywin32
+pygame
+pyautogui
+numpy
+stockfish
+pynput
+eimbh
